@@ -1,6 +1,6 @@
 <!-- Upload github_readme_hero_1280x400.png to the d0u6ur45u/d0u6ur45u repo (assets/) -->
 <p align="center">
-  <img src="assets/github_readme_hero_1280x400.png" alt="Dougurasu Sec — Offensive Security Consulting" width="100%">
+  <img src="github_readme_hero_1280x400.png" alt="Dougurasu Sec — Offensive Security Consulting" width="100%">
 </p>
 
 ### Dougurasu Sec
