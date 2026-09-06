@@ -50,7 +50,7 @@ I prioritize clear scope, reproducible evidence, minimal impact, and responsible
 
 - LinkedIn: [Douglas Souza](https://www.linkedin.com/in/d0u6ur45u/)
 - Website: [dougurasusec.com.br](https://dougurasusec.com.br)
-- Medium: [@dougurasusec](https://medium.com/@dougurasu.sec)
+- Medium: [@dougurasu.sec](https://medium.com/@dougurasu.sec)
 - Instagram: [@dougurasu.sec](https://instagram.com/dougurasu.sec)
 
 ---
