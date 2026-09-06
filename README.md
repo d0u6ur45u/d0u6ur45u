@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://dougurasusec.com.br">Website</a> ·
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">LinkedIn</a> ·
-  <a href="https://medium.com/@dougurasusec">Medium</a> ·
+  <a href="https://www.linkedin.com/in/d0u6ur45u/">LinkedIn</a> ·
+  <a href="https://medium.com/@dougurasu.sec">Medium</a> ·
   <a href="https://instagram.com/dougurasu.sec">Instagram</a>
 </p>
 
