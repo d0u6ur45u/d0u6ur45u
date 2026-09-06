@@ -37,7 +37,7 @@ My public work focuses on practical security research, authorized labs, technica
 ## Selected work
 
 - 🌐 [Dougurasu Sec](https://dougurasusec.com.br) — Research, technical notes, and project archive
-- ✍️ [Medium write-ups](https://medium.com/@dougurasusec) — Labs, learning notes, and security research
+- ✍️ [Medium write-ups](https://medium.com/@dougurasu.sec) — Labs, learning notes, and security research
 - 🏢 [Dougurasu Sec on GitHub](https://github.com/dougurasu-sec) — Organization repositories and public research artifacts
 
 ## Principles
@@ -48,9 +48,9 @@ I prioritize clear scope, reproducible evidence, minimal impact, and responsible
 
 ## Connect
 
-- LinkedIn: [Douglas Souza](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
+- LinkedIn: [Douglas Souza](https://www.linkedin.com/in/d0u6ur45u/)
 - Website: [dougurasusec.com.br](https://dougurasusec.com.br)
-- Medium: [@dougurasusec](https://medium.com/@dougurasusec)
+- Medium: [@dougurasusec](https://medium.com/@dougurasu.sec)
 - Instagram: [@dougurasu.sec](https://instagram.com/dougurasu.sec)
 
 ---
