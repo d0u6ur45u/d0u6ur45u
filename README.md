@@ -1,25 +1,60 @@
-<!-- Upload github_readme_hero_1280x400.png to the d0u6ur45u/d0u6ur45u repo (assets/) -->
 <p align="center">
-  <img src="github_readme_hero_1280x400.png" alt="Dougurasu Sec — Offensive Security Consulting" width="100%">
+  <img src="https://raw.githubusercontent.com/d0u6ur45u/d0u6ur45u/main/assets/banner.png" alt="Dougurasu Sec — Offensive Security Research" width="100%" />
 </p>
 
-### Dougurasu Sec
+<h1 align="center">Douglas Souza</h1>
 
-Offensive Security Consulting — **[dougurasusec.com.br](https://dougurasusec.com.br)** · Pentest, Red Team, AppSec, Infra.
-Research and tooling signed as **d0u6ur45u**.
+<p align="center">
+  Offensive Security · Application Security · Identity · Cloud
+</p>
 
-`offensive-security` `pentest` `red-team` `appsec` `cloud` `vulnerability-research`
+<p align="center">
+  <a href="https://dougurasusec.com.br">Website</a> ·
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">LinkedIn</a> ·
+  <a href="https://medium.com/@dougurasusec">Medium</a> ·
+  <a href="https://instagram.com/dougurasu.sec">Instagram</a>
+</p>
 
-**What you'll find here**
-- Tools and scripts used in real engagements (sanitized)
-- PoCs and writeups for published vulnerabilities
-- Labs and study material
+<p align="center">
+  📍 São Paulo, SP, Brazil
+</p>
 
-**Rules**
-- Responsible disclosure. Nothing here is for unauthorized use.
-- Issues and PRs welcome; secure code first.
+---
 
-**Contact**
-dougurasusec.com.br · dougurasu.sec@gmail.com · X [@d0u6ur45u](https://x.com/d0u6ur45u) · [HackerOne](https://hackerone.com/d0u6ur45u) · [Medium](https://medium.com/@d0u6ur45u) · [YouTube](https://youtube.com/@d0u6ur45u)
+## Focus
 
-<sub>Offensive mindset. Defensive outcome.</sub>
+I work across offensive security, application security, identity, and cloud environments.
+
+My public work focuses on practical security research, authorized labs, technical write-ups, and responsible disclosure. I am building **Dougurasu Sec** as a focused archive for this work.
+
+- Application and API security
+- Identity and Access Management
+- OAuth 2.0, OpenID Connect, and authentication flows
+- Cloud and infrastructure security
+- Security architecture and threat modeling
+- Authorized labs, CTFs, and reproducible technical research
+
+## Selected work
+
+- 🌐 [Dougurasu Sec](https://dougurasusec.com.br) — Research, technical notes, and project archive
+- ✍️ [Medium write-ups](https://medium.com/@dougurasusec) — Labs, learning notes, and security research
+- 🏢 [Dougurasu Sec on GitHub](https://github.com/dougurasu-sec) — Organization repositories and public research artifacts
+
+## Principles
+
+> All published work is based on authorized labs, CTFs, publicly available research, or explicitly in-scope security testing.
+
+I prioritize clear scope, reproducible evidence, minimal impact, and responsible disclosure. No client data, credentials, private targets, or confidential findings are published.
+
+## Connect
+
+- LinkedIn: [Douglas Souza](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/)
+- Website: [dougurasusec.com.br](https://dougurasusec.com.br)
+- Medium: [@dougurasusec](https://medium.com/@dougurasusec)
+- Instagram: [@dougurasu.sec](https://instagram.com/dougurasu.sec)
+
+---
+
+<p align="center">
+  <sub>Building in public through research, disciplined practice, and responsible disclosure.</sub>
+</p>
