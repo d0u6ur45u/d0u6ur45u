@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d0u6ur45u/d0u6ur45u/main/assets/banner.png" alt="Dougurasu Sec — Offensive Security Research" width="100%" />
+  <img src="https://raw.githubusercontent.com/d0u6ur45u/d0u6ur45u/main/github_readme_hero_1280x400.png" alt="Dougurasu Sec — Offensive Security Research" width="100%" />
 </p>
 
 <h1 align="center">Douglas Souza</h1>
